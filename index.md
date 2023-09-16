@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-Welcome to EE 274, a class on data compression at Stanford!
+Welcome to EE 274, a class on data compression at Stanford! This was a new class introduced in Fall 22 at Stanford, for more information on last offering visit the 
+[Fall22 website](https://stanforddatacompressionclass.github.io/Fall22/).
 
 The amount of data being generated, stored and communicated by humanity is growing at unprecedented rates, currently in the dozens of zettabytes (1 zettabyte = 1 trillion gigabytes) per year by the most conservative of estimates.  Data compression, the field dedicated to representing information succinctly, is playing an increasingly critical role in enabling this growth. Progress in storage and communication technologies has led to enhanced capabilities, with a perpetual cat and mouse chase between growing the ability to handle more data and the amounts of it required by new technologies. We are all painfully aware of this conundrum as we run out of space on our phones due to the selfies, boomerang videos and documents we collect.
 
