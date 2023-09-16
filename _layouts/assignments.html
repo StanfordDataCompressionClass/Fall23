@@ -1,0 +1,29 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for asg in site.assignments %}
+      <li class="archiveposturl" style="background: transparent">
+<!--        <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>-->
+          <!--<a title="Download problems (pdf)" href="{{ asg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>-->
+<!--    <a title="Download problems (pdf)" href="{{ asg.pdf}}"><i class="fas fa-file-pdf"></i></a>-->
+          <a href="{{asg.link}}">{{asg.title}}</a>
+          Due: {{ asg.due }}
+          {% if asg.sol_link %}
+          <br>
+          <a href="{{asg.sol_link}}">{{asg.title}} Solution</a>
+          {% endif %}
+<!--&lt;!&ndash;<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;<a title="Download problems (pdf)" href="{{ asg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;    <a title="Download problems (pdf)" href="{{ asg.pdf}}"><i class="fas fa-file-pdf"></i></a>&ndash;&gt;-->
+
+<!--&lt;!&ndash;{% if asg.attachment %}&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;&nbsp; <a title="Download attachments (zip)" href="{{ asg.attachment | prepend: site.baseurl }}"><i class="fas fa-file-archive"></i></a>&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;    &nbsp; <a title="Download attachments (zip)" href="{{ asg.attachment}}"><i class="fas fa-file-archive"></i></a>&ndash;&gt;-->
+<!--&lt;!&ndash;{% endif %}&ndash;&gt;-->
+<!--</strong>-->
+      </li>
+{% endfor %}
+</ul>
