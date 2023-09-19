@@ -1,6 +1,6 @@
 <!-- 
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2023-09-18
 ---
-Sample announcement, Please check out [here](/). 
+Course website is up! Please find the details here. For Fall 22-23 iteration of the course, please see [here](https://stanforddatacompressionclass.github.io/Fall22/). 
 -->

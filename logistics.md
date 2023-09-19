@@ -4,49 +4,49 @@ title: Course Logistics
 permalink: /logistics/
 ---
 ## Contact
-Please contact us on the staff mailing list with any questions: ee274-aut2223-staff [AT] lists.stanford [DOT] edu, or by
-making a private post on ED for registered students.
+Please contact us by reaching directly on the staff email IDs with any questions, or by
+making a private post on ED for registered students. Individual appointments outside OH can be made by directly contacting
+the respective staff.
 
 ## Course Staff
-- **Kedar Tatwawadi** 
-    - Research Scientist at WaveOne, Inc.
-    - kedart [AT] stanford [DOT] edu
-    - **Office hours:** `Thursdays 6:00-7:00pm, STLC 118`
+- **Pulkit Tandon**
+  - Research Engineer at [Granica](https://granica.ai)
+  - tpulkit [AT] stanford [DOT] edu
+  - **Office hours:** `Wednesdays 6pm-7pm, Shriram 104`
 - **Shubham Chandak** 
     - Applied Scientist at Amazon Web Services
     - schandak [AT] stanford [DOT] edu
-    - **Office hours:** `Tuesdays 6:00-7:00pm, STLC 118`
+    - **Office hours:** `TBD`
 - **Prof. Tsachy Weissman** 
     - Electrical Engineering, Stanford
     - tsachy [AT] stanford [DOT] edu
-    - **Office hours:** `Fridays 1:00-2:00pm, On Zoom`. Link available on pinned [ED](https://edstem.org/us/courses/29704/discussion/1909607) post.
-- **Pulkit Tandon**
-  - Electrial Engineering, Stanford
-  - tpulkit [AT] stanford [DOT] edu
-  - **Office hours:** `Wednesdays 11:00am-12:30pm, Packard 106`
+    - **Office hours:** `TBD`
+- **Noah Huffman**
+  - Physics, Stanford
+  - nhuffman [AT] stanford [DOT] edu
+  - **Office hours:** `TBD`
 
 
 ## Lectures
 - [Link to explore courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=EE274&collapse=)
-- **Date & Time:** Biweekly in-person lectures `Tue, Thu 4:30 PM - 5:50 PM`
-- **Location**: [STLC 118](http://campus-map.stanford.edu/?srch=STLC+118) (location subject to change)
+- **Date & Time:** Biweekly in-person lectures `Mon, Wed 4:30 PM - 5:50 PM`
+- **Location**: [Shriram 104](https://campus-map.stanford.edu/?srch=Shriram+104)
 
 
 ## Course elements and grading (tentative)
 EE 274 is a `3 unit` course - auditing allowed with instructor permission. The graded course elements include:
 
-- `3` assignments with both theoretical and programming components (`20%` each)
-  - and a HW 0 to get you started (`5%`)
-- Short quizzes (`5%`)
+- `4` assignments with both theoretical and programming components (`15%` each)
+- Short quizzes after every lecture, due before next (`10%`)
 - final project (`30%`)
 - [bonus] participation in the course (`5%`)
 
 ## Useful Links
 - [Stanford Compression Library](https://github.com/kedartatwawadi/stanford_compression_library) (a collection of compression algorithms implemented in Python)
 - [Lecture Notes](https://stanforddatacompressionclass.github.io/notes/contents.html) (for the course notes)
-- [ED](https://edstem.org/us/courses/29704/discussion/) (for course Q&A, discussions and announcements)
-- [Gradescope](https://www.gradescope.com/courses/436519) (for quizzes and assignment submissions)
-- [YouTube Playlist for Lecture Recordings](https://www.youtube.com/watch?v=JFVlAIjHo2c&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl) (for the course lectures video recordings)
+- ED: available via [Canvas](https://canvas.stanford.edu) (for course Q&A, discussions and announcements)
+- Gradescope: available via [Canvas](https://canvas.stanford.edu) (for quizzes and assignment submissions)
+- Panopto: available via [Canvas](https://canvas.stanford.edu) (for the course lectures video recordings)
 - [IT Forum](https://web.stanford.edu/group/it-forum/talks/) (for talks on various topics related to compression)
 
 ## Prerequisites
@@ -85,10 +85,12 @@ We might provide references to textbooks from time to time for additional readin
 - Perceptual Quality metrics for image/video compression
 
 **Special Topics**
-(based on interest and time) 
+
+Based on interest and time. Some of these topics will be covered through invited IT Forum talks and also available as
+an option for the final projects.
 - Succinct data structures, compression of data structures in the RAM
 - Burrows-Wheeler transform
-- Lossy compression and denoising
+- Lossy compression and de-noising
 - Distributed compression, practical applications
 - Compression of neural network models
 
