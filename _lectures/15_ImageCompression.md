@@ -2,14 +2,14 @@
 type: lecture
 
 [//]: # (date: 2022-09-29)
-title: Lecture 15 [2022-11-17]
-tldr: "Image Compression"
+title: Lecture 15 [2023-11-15]
+tldr: "Image Compression: JPEG, BPG"
 hide_from_announcments: true
-links:
-    - url: https://www.youtube.com/watch?v=_ciMMmxNIGw&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
-      name: video
-    - url: /static_files/L15_slide.pdf
-      name: slides
+#links:
+#    - url: https://www.youtube.com/watch?v=_ciMMmxNIGw&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
+#      name: video
+#    - url: /static_files/L15_slide.pdf
+#      name: slides
 
 [//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossy/rd.html)
 

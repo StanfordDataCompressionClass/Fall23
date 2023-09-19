@@ -5,9 +5,9 @@ type: lecture
 title: Lecture 1 [2023-09-27]
 tldr: "Course Introduction, Lossless Data Compression Basics"
 hide_from_announcments: true
-#links: 
-#    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/intro.html
-#      name: notes
+links: 
+    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/intro.html
+      name: notes
 #    - url: /static_files/L1_slide_Tsachy.pdf
 #      name: slides-part-1
 #    - url: /static_files/L1_slide.pdf
