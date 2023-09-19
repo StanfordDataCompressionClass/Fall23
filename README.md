@@ -1,4 +1,4 @@
-# Fall22
+# Fall23
 
 Repo to maintain the class website for Fall 2023 session.\
 Website template from https://github.com/kazemnejad/jekyll-course-website-template.
