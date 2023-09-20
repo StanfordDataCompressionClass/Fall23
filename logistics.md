@@ -12,11 +12,11 @@ the respective staff.
 - **Pulkit Tandon**
   - Research Engineer at [Granica](https://granica.ai)
   - tpulkit [AT] stanford [DOT] edu
-  - **Office hours:** `Wednesdays 6pm-7pm, Shriram 104`
+  - **Office hours:** `Monday, 6pm-7pm, Shriram 104`
 - **Shubham Chandak** 
-    - Applied Scientist at Amazon Web Services
+    - Sr. Applied Scientist at S3, Amazon Web Services
     - schandak [AT] stanford [DOT] edu
-    - **Office hours:** `TBD`
+    - **Office hours:** `Wednesday, 6pm-7pm, Shriram 104`
 - **Prof. Tsachy Weissman** 
     - Electrical Engineering, Stanford
     - tsachy [AT] stanford [DOT] edu
