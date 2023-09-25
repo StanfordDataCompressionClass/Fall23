@@ -67,9 +67,9 @@ For Stanford students taking the course for `CR/NC`, we do require that you get 
 ## Prerequisites
 Basic probability and programming background (EE178, CS106B or equivalent), or instructor’s permission. Background in statistical signal processing (EE278) and in information theory (EE276) may be helpful for appreciating some of the material, but is not assumed and the relevant background will be covered in class. Some of the final projects will be tailored to the students' backgrounds. 
 
-## Textbook
-There is no required textbook, lecture notes and slides will be provided as relevant. 
-We might provide references to textbooks from time to time for additional reading.
+## Reading Material
+There is no required textbook. Lecture notes and slides will be provided as relevant. Working notes draft can be found
+[here](https://stanforddatacompressionclass.github.io/notes/contents.html). We might also provide references to textbooks from time to time for additional reading. For a handy list of resource, you can also check out the [resources](https://stanforddatacompressionclass.github.io/notes/resources.html) page.
 
 [//]: # (---)
 
