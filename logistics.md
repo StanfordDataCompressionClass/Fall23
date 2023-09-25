@@ -69,7 +69,7 @@ Basic probability and programming background (EE178, CS106B or equivalent), or i
 
 ## Reading Material
 There is no required textbook. Lecture notes and slides will be provided as relevant. Working notes draft can be found
-[here](https://stanforddatacompressionclass.github.io/notes/contents.html). We might also provide references to textbooks from time to time for additional reading. For a handy list of resource, you can also check out the [resources](https://stanforddatacompressionclass.github.io/notes/resources.html) page.
+[here](https://stanforddatacompressionclass.github.io/notes/contents.html). We might also provide references to textbooks from time to time for additional reading. For a handy list of resources, you can also check out the [resources](https://stanforddatacompressionclass.github.io/notes/resources.html) page.
 
 [//]: # (---)
 
