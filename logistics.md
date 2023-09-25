@@ -51,6 +51,11 @@ EE 274 is a `3 unit` course - auditing allowed with instructor permission. The g
 - final project (`30%`)
 - [bonus] participation in the course (`5%`)
 
+### Audit Policy
+Audits are more than welcome! All the material is released via website.
+Please contact instructors via the staff mailing list to get access to quizzes and HW submissions.
+For Stanford students taking the course for `CR/NC`, we do require that you get 50% of the total grade to get a `CR`.
+
 ## Useful Links
 - [Stanford Compression Library](https://github.com/kedartatwawadi/stanford_compression_library) (a collection of compression algorithms implemented in Python)
 - [Lecture Notes](https://stanforddatacompressionclass.github.io/notes/contents.html) (for the course notes)
