@@ -3,7 +3,7 @@ type: assignment
 
 [//]: # (date: 2022-10-06T16:30:00PT)
 title: 'HW3'
-due: '10/30/2023 - 11/13/2023'
+due: '11/1/2023 - 11/15/2023'
 #link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW3.html
 hide_from_announcments: True
 

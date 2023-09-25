@@ -9,4 +9,8 @@ through this [link](https://stanforddatacompressionclass.github.io/notes/homewor
 
 More project details and descriptions will be released at this [link](https://stanforddatacompressionclass.github.io/notes/projects.html) in the future. 
 
+**Late Day Policy**: 
+everyone is given two late-days by default, communicate with teaching-staff via ED to avail them.
+Note: late-days will not apply to final project presentation and report! Make sure you have the times blocked in your calendar.
+
 [//]: # (Project description can be found [here]&#40;https://stanforddatacompressionclass.github.io/notes/projects.html&#41;.)

@@ -4,8 +4,8 @@ title: Course Logistics
 permalink: /logistics/
 ---
 ## Contact
-Please contact us by reaching directly on the staff email IDs with any questions, or by
-making a private post on ED for registered students. Individual appointments outside OH can be made by directly contacting
+Please contact us by reaching on the staff email list: `ee274-aut2324-staff@lists.stanford.edu`, or by
+making a private post on ED for the registered students. Individual appointments outside OH can be made by directly contacting
 the respective staff.
 
 ## Course Staff
@@ -32,6 +32,16 @@ the respective staff.
 - **Date & Time:** Biweekly in-person lectures `Mon, Wed 4:30 PM - 5:50 PM`
 - **Location**: [Shriram 104](https://campus-map.stanford.edu/?srch=Shriram+104)
 
+### Disclaimer
+Video cameras located in the back of the room will capture the instructor
+presentations in this course. For your convenience, you can access these
+recordings by logging into the course Canvas site. These recordings might be
+reused in other Stanford courses, viewed by other Stanford students, faculty, or
+staff, or used for other education and research purposes. Note that while the
+cameras are positioned with the intention of recording only the instructor,
+occasionally a part of your image or voice might be incidentally captured. If you
+have questions, please contact a member of the teaching team.
+
 
 ## Course elements and grading (tentative)
 EE 274 is a `3 unit` course - auditing allowed with instructor permission. The graded course elements include:
@@ -56,44 +66,75 @@ Basic probability and programming background (EE178, CS106B or equivalent), or i
 There is no required textbook, lecture notes and slides will be provided as relevant. 
 We might provide references to textbooks from time to time for additional reading.
 
----
+[//]: # (---)
 
-## Course Outline (tentative)
-**Lossless Compression Basics**
-- Introduction to data compression, prefix-free codes
-- Construction of generic prefix-free codes, Kraft Inequality
-- Information theory basics, fundamental limits on compression
-- Huffman coding, practical prefix-free codes
-- Arithmetic coding, adaptive arithmetic coding
-- Asymmetric Numeral Systems, rANS/tANS compressors
+[//]: # ()
+[//]: # (## Course Outline &#40;tentative&#41;)
 
-**Universal lossless compression**
-- Asymptotic Equipartition theory
-- Non-iid data compression, Entropy rate, context-based Arithmetic coder
-- Universal lossless compression, Lempel-Ziv (LZ) 77/78 schemes
-- Case Study: `GZIP`, how to implement LZ-based schemes in practice
+[//]: # (**Lossless Compression Basics**)
 
-**Lossy Compression fundamentals**
-- Introduction to Lossy compression, scalar-quantization
-- Rate-Distortion theory, intuition + practical limitations
-- Transform coding, Case Study: Speech compression
+[//]: # (- Introduction to data compression, prefix-free codes)
 
-**Image/Video Compression**
-- Case Study: Image compression `JPEG, BPG`
-- Machine Learning based image compression
-- Video compression, `H264, H265` video standards
-- Perceptual Quality metrics for image/video compression
+[//]: # (- Construction of generic prefix-free codes, Kraft Inequality)
 
-**Special Topics**
+[//]: # (- Information theory basics, fundamental limits on compression)
 
-Based on interest and time. Some of these topics will be covered through invited IT Forum talks and also available as
-an option for the final projects.
-- Succinct data structures, compression of data structures in the RAM
-- Burrows-Wheeler transform
-- Lossy compression and de-noising
-- Distributed compression, practical applications
-- Compression of neural network models
+[//]: # (- Huffman coding, practical prefix-free codes)
 
+[//]: # (- Arithmetic coding, adaptive arithmetic coding)
+
+[//]: # (- Asymmetric Numeral Systems, rANS/tANS compressors)
+
+[//]: # ()
+[//]: # (**Universal lossless compression**)
+
+[//]: # (- Asymptotic Equipartition theory)
+
+[//]: # (- Non-iid data compression, Entropy rate, context-based Arithmetic coder)
+
+[//]: # (- Universal lossless compression, Lempel-Ziv &#40;LZ&#41; 77/78 schemes)
+
+[//]: # (- Case Study: `GZIP`, how to implement LZ-based schemes in practice)
+
+[//]: # ()
+[//]: # (**Lossy Compression fundamentals**)
+
+[//]: # (- Introduction to Lossy compression, scalar-quantization)
+
+[//]: # (- Rate-Distortion theory, intuition + practical limitations)
+
+[//]: # (- Transform coding, Case Study: Speech compression)
+
+[//]: # ()
+[//]: # (**Image/Video Compression**)
+
+[//]: # (- Case Study: Image compression `JPEG, BPG`)
+
+[//]: # (- Machine Learning based image compression)
+
+[//]: # (- Video compression, `H264, H265` video standards)
+
+[//]: # (- Perceptual Quality metrics for image/video compression)
+
+[//]: # ()
+[//]: # (**Special Topics**)
+
+[//]: # ()
+[//]: # (Based on interest and time. Some of these topics will be covered through invited IT Forum talks and also available as)
+
+[//]: # (an option for the final projects.)
+
+[//]: # (- Succinct data structures, compression of data structures in the RAM)
+
+[//]: # (- Burrows-Wheeler transform)
+
+[//]: # (- Lossy compression and de-noising)
+
+[//]: # (- Distributed compression, practical applications)
+
+[//]: # (- Compression of neural network models)
+
+[//]: # ()
 
 
 
