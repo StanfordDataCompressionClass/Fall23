@@ -20,11 +20,11 @@ the respective staff.
 - **Prof. Tsachy Weissman** 
     - Electrical Engineering, Stanford
     - tsachy [AT] stanford [DOT] edu
-    - **Office hours:** `TBD`
+    - **Office hours:** `Wednesday, 3-4pm, Packard Room No. 256`
 - **Noah Huffman**
   - Physics, Stanford
   - nhuffman [AT] stanford [DOT] edu
-  - **Office hours:** `TBD`
+  - **Office hours:** `Tuesday, 1:30pm-2:30pm, Location: TBD`
 
 
 ## Lectures
