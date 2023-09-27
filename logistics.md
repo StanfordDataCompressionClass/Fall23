@@ -24,7 +24,7 @@ the respective staff.
 - **Noah Huffman**
   - Physics, Stanford
   - nhuffman [AT] stanford [DOT] edu
-  - **Office hours:** `Tuesday, 1:30pm-2:30pm, Location: TBD`
+  - **Office hours:** `Tuesday, 1:30pm-2:30pm, Location: Packard Room No. 318`
 
 
 ## Lectures
