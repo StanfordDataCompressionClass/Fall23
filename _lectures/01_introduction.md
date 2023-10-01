@@ -14,6 +14,8 @@ links:
       name: slides-part-1 (keynote)
     - url: /static_files/L1_part2.pdf
       name: slides-part-2 
+    - url: /static_files/L1_part2_ann.pdf
+      name: slides-part-2 (annotated)
 #    - url: https://www.youtube.com/watch?v=JFVlAIjHo2c&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
 #      name: video-part-1
 #    - url: https://www.youtube.com/watch?v=HT9NcTNXdnE&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=2
