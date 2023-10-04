@@ -4,9 +4,9 @@ type: assignment
 [//]: # (date: 2022-10-06T16:30:00PT)
 title: 'HW1'
 due: '10/04/2023 - 10/18/2023'
-#link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW1.html
+link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW1.html
 #sol_link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW1_sol.html
-hide_from_announcments: True
+hide_from_announcments: False
 
 [//]: # (due_event:)
 
