@@ -3,7 +3,7 @@ type: lecture
 
 title: Lecture 2 [2023-10-02]
 tldr: "Prefix Free Codes and Kraft Inequality"
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
   - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/prefix_free_codes.html
     name: Prefix Free Codes notes
