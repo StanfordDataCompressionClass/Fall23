@@ -1,6 +1,7 @@
 ---
 type: lecture
 
+[//]: # (date: 2022-09-29)
 title: Lecture 2 [2023-10-02]
 tldr: "Prefix Free Codes and Kraft Inequality"
 hide_from_announcments: true
