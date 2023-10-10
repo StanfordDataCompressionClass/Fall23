@@ -4,7 +4,7 @@ type: lecture
 # [//]: # (date: 2022-09-29)
 title: Lecture 3 [2023-10-04]
 tldr: "Entropy, Neg-log Likelihood, Introduction to SCL"
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/kraft_ineq_and_optimality.html
      name: Kraft Inequality notes
