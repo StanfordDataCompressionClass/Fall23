@@ -11,7 +11,7 @@ links:
    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/entropy.html
      name: Entropy notes
    - url: /static_files/L3_ann.pdf
-     name: slides (annotated)
+     name: slides 
 #    - url: https://www.youtube.com/watch?v=UvIJhNHJ5dk&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=4
 #      name: video
 ---
