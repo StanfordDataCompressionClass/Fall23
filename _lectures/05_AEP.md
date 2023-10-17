@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 5 [2023-10-11]
 tldr: "Asymptotic Equipartition Property"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
     - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/aep.html
       name: AEP notes
