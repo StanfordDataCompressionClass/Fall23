@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 6 [2023-10-16]
 tldr: "Arithmetic Coding"
-hide_from_announcments: False
+hide_from_announcments: True
 links:
    - url: /static_files/L6_ann.pdf 
      name: slides
