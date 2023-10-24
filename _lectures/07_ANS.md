@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 7 [2023-10-18]
 tldr: "ANS"
-hide_from_announcments: False
+hide_from_announcments: True
 links:
    - url: /static_files/L7.pdf 
      name: slides
