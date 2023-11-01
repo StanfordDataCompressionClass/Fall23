@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 9 [2023-10-25]
 tldr: "Context-based AC & LLM Compression"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
    - url: /static_files/L9_ann.pdf 
      name: slides
