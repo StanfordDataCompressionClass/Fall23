@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 13 [2023-11-08]
 tldr: "Gaussian RD, Water-Filling Intuition; Transform Coding"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
 #    - url: https://www.youtube.com/watch?v=TxzF9fcN1OQ&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl
 #      name: video

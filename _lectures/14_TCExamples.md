@@ -4,14 +4,18 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 14 [2023-11-13]
 tldr: "Transform Coding in real-life: image, audio, etc."
-hide_from_announcments: true
-#links:
+hide_from_announcments: false
+links:
 #    - url: https://www.youtube.com/watch?v=AsoQkXJZAVw&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl
 #      name: video
-#    - url: /static_files/L14_slide_Tsachy.pdf
-#      name: Water-Filling slides
-#    - url: /static_files/L14_slide_Kedar.pdf
-#      name: Image Compression slides
+   - url: /static_files/L14_ann.pdf
+     name: Slides
+   - url: /static_files/L14.pdf
+     name: Slides (annotated)
+   - url: https://colab.research.google.com/drive/1Zcnjlco0HEbiTQWvcpiPYA9HbtfB829x#scrollTo=u2mT08CIzvuw
+     name: Transform Coding Notebook
+   - url: https://colab.research.google.com/drive/13e81Rgv5KNbT1P_fcguPvldtedogkEJZ#scrollTo=McjXr-nVIII1
+     name: Audio Compression Notebook
 
 [//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossy/rd.html)
 
