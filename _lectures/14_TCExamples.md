@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 14 [2023-11-13]
 tldr: "Transform Coding in real-life: image, audio, etc."
-hide_from_announcments: false
+hide_from_announcments: true
 links:
 #    - url: https://www.youtube.com/watch?v=AsoQkXJZAVw&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl
 #      name: video
