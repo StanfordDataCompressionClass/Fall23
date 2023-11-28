@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 15 [2023-11-15]
 tldr: "Image Compression: JPEG, BPG"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
 #    - url: https://www.youtube.com/watch?v=_ciMMmxNIGw&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
 #      name: video
