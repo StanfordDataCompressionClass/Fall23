@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 16 [2023-11-27]
 tldr: "Learnt Image Compression"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
 - url: /static_files/slide_16_2023.pdf
   name: slides
