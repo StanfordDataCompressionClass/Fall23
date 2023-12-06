@@ -5,7 +5,7 @@ type: assignment
 title: 'HW4'
 due: '11/15/2023 - 12/04/2023'
 link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW4.html
-hide_from_announcments: false
+hide_from_announcments: true
 
 [//]: # (due_event:)
 
