@@ -3,7 +3,7 @@ type: lecture
 
 [//]: # (date: 2022-09-29)
 title: Lecture 8 [2023-10-23]
-tldr: "Beyond IID distributions -- correlated sources"
+tldr: "Beyond IID distributions: Conditional entropy"
 hide_from_announcments: true
 links:
    - url: /static_files/L8.pdf 
