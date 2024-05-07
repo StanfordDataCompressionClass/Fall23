@@ -12,6 +12,6 @@ links:
      name: Entropy notes
    - url: /static_files/L3_ann.pdf
      name: slides 
-#    - url: https://www.youtube.com/watch?v=UvIJhNHJ5dk&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=4
-#      name: video
+   - url: https://youtu.be/kbAif7XhlTI?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+     name: YouTube
 ---

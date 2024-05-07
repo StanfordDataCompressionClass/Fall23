@@ -4,7 +4,7 @@ type: assignment
 [//]: # (date: 2022-10-06T16:30:00PT)
 title: 'Project'
 link: https://stanforddatacompressionclass.github.io/notes/projects.html
-hide_from_announcments: False
+hide_from_announcments: True
 
 [//]: # (due_event:)
 

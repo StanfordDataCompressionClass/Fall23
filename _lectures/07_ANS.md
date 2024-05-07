@@ -12,6 +12,8 @@ links:
      name: annotated slides
    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/ans.html
      name: ANS notes
+   - url: https://youtu.be/5Hp4bnvSjng?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+     name: YouTube
    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/rANS.py
      name: rANS code
    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/tANS.py

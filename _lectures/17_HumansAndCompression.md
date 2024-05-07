@@ -8,9 +8,9 @@ hide_from_announcments: true
 links:
     - url: /static_files/slide_17_2023.pdf
       name: slides
+    - url: https://youtu.be/LE6GLWv63wc?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+      name: YouTube
 [//]: #links:
-[//]: #    - url: https://www.youtube.com/watch?v=oBaGW_zrenw&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl
-[//]: #      name: video
 [//]: #    - url: /static_files/L17_slide.pdf
 [//]: #      name: slides
 ---

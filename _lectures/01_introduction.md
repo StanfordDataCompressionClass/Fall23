@@ -16,9 +16,9 @@ links:
       name: slides-part-2 
     - url: /static_files/L1_part2_ann.pdf
       name: slides-part-2 (annotated)
-#    - url: https://www.youtube.com/watch?v=JFVlAIjHo2c&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
-#      name: video-part-1
+    - url: https://youtu.be/FF7DRogZZdY?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+      name: YouTube
 #    - url: https://www.youtube.com/watch?v=HT9NcTNXdnE&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=2
-#      name: video-part-2
+#      name: YouTube-part-2
 
 ---

@@ -10,8 +10,8 @@ links:
      name: slides
    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/non_iid_sources.html
      name: Non-IID Sources Notes
-#    - url: https://www.youtube.com/watch?v=f14D3MwNoK0&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl
-#      name: video
+   - url: https://youtu.be/tGPF2nw5Exc?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+     name: YouTube
 ---
 
 

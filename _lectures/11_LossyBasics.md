@@ -12,10 +12,11 @@ links:
      name: slides (annotated)
    - url: https://stanforddatacompressionclass.github.io/notes/lossy/quant.html
      name: quantization notes
+   - url: https://youtu.be/YEF0iCiQlOg?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+     name: YouTube
    - url: https://colab.research.google.com/drive/16dYjBEc499HgHoZRxcyeg0YmNAb5AwAW?usp=sharing
      name: quantization colab notebook
-#    - url: https://www.youtube.com/watch?v=WD6ZSfy5MAE&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl
-#      name: video
+
 #    - url: https://colab.research.google.com/drive/16dYjBEc499HgHoZRxcyeg0YmNAb5AwAW?usp=sharing
 #      name: code 
 #    - url: /static_files/L11_slide.pdf 

@@ -7,7 +7,7 @@ tldr: "Student Presentations"
 hide_from_announcments: true
 #links:
 #    - url: https://youtu.be/wsRAJtCQRUQ
-#      name: video
+#      name: YouTube
 #    - url: /static_files/L18_slide.pdf
 #      name: slides
 ---

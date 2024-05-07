@@ -10,8 +10,8 @@ links:
      name: Huffman notes
    - url: /static_files/L4_ann.pdf
      name: slides
-#    - url: https://www.youtube.com/watch?v=cUYZ_yinHqg&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=5&t=1s
-#      name: video
+   - url: https://youtu.be/975qcAxZCG0?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+     name: YouTube
    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/huffman_coder.py
      name: Huffman code
 ---
