@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+The latest edition of the course can be found [here](https://stanforddatacompressionclass.github.io/).
+
 Welcome to EE 274, a class on data compression at Stanford! This is the second offering of this course at Stanford. The reviews
 for the last offering are available via [Stanford Carta](https://carta-beta.stanford.edu/course/EE%20274/1242).
 
