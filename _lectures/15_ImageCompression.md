@@ -12,6 +12,9 @@ links:
      name: slides (annotated)
    - url: https://youtu.be/pMNVQIZa-G8?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
      name: YouTube
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-15-image-compression-jpeg-bpg
+     name: Quiz
+
 [//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossy/rd.html)
 
 [//]: # (      name: RD notes)

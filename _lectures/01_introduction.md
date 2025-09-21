@@ -18,6 +18,8 @@ links:
       name: slides-part-2 (annotated)
     - url: https://youtu.be/FF7DRogZZdY?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
       name: YouTube
+    - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-1-lossless-data-compression-basics
+      name: Quiz
 #    - url: https://www.youtube.com/watch?v=HT9NcTNXdnE&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=2
 #      name: YouTube-part-2
 

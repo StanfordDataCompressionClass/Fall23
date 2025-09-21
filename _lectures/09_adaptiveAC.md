@@ -16,6 +16,8 @@ links:
      name: probability models code
    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/arithmetic_coding.py
      name: arithmetic coding code
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-9-context-based-ac--llm-compression
+     name: Quiz
 
 [//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/ans.html)
 

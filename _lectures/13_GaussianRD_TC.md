@@ -14,6 +14,8 @@ links:
      name: slides (annotated)
    - url: https://youtu.be/9ZcYlFYqAhU?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
      name: YouTube
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-13-gaussian-rd-water-filling-intuition-transform-coding
+     name: Quiz
 
 [//]: # (    - url: https://colab.research.google.com/drive/16dYjBEc499HgHoZRxcyeg0YmNAb5AwAW?usp=sharing)
 

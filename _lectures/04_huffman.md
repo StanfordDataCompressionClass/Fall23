@@ -14,4 +14,6 @@ links:
      name: YouTube
    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/huffman_coder.py
      name: Huffman code
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-4-huffman-codes
+     name: Quiz
 ---

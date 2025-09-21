@@ -16,4 +16,6 @@ links:
       name: Block Coding colab
     - url: /static_files/L4_extended.pdf 
       name: slides (Huffman extended)
+    - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-5-asymptotic-equipartition-property
+      name: Quiz
 ---

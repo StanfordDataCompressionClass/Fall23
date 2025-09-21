@@ -16,5 +16,7 @@ links:
     name: YouTube
   - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/prefix_free_compressors.py
     name: Prefix-free Compressor code
+  - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-2-prefix-free-codes
+    name: Quiz
 
 ---

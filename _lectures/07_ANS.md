@@ -18,6 +18,8 @@ links:
      name: rANS code
    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/tANS.py
      name: tANS code
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-7-asymmetric-numeral-systems
+     name: Quiz
 ---
 
 

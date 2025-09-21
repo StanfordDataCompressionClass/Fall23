@@ -16,6 +16,8 @@ links:
      name: YouTube
    - url: https://colab.research.google.com/drive/16dYjBEc499HgHoZRxcyeg0YmNAb5AwAW?usp=sharing
      name: quantization colab notebook
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-11-lossy-compression-basics-quantization
+     name: Quiz
 
 #    - url: https://colab.research.google.com/drive/16dYjBEc499HgHoZRxcyeg0YmNAb5AwAW?usp=sharing
 #      name: code 

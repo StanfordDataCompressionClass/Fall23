@@ -14,4 +14,6 @@ links:
      name: slides 
    - url: https://youtu.be/kbAif7XhlTI?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
      name: YouTube
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-3-kraft-inequality-entropy
+     name: Quiz
 ---

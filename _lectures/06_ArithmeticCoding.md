@@ -12,6 +12,8 @@ links:
      name: YouTube
    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/arithmetic_coding.py
      name: Arithmetic Entropy Coder code
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-6-arithmetic-coding
+     name: Quiz
 ---
 
 

@@ -12,6 +12,8 @@ links:
      name: Non-IID Sources Notes
    - url: https://youtu.be/tGPF2nw5Exc?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
      name: YouTube
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-8-beyond-iid-distributions-conditional-entropy
+     name: Quiz
 ---
 
 

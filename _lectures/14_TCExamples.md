@@ -16,6 +16,8 @@ links:
      name: Transform Coding Notebook
    - url: https://colab.research.google.com/drive/13e81Rgv5KNbT1P_fcguPvldtedogkEJZ#scrollTo=McjXr-nVIII1
      name: Audio Compression Notebook
+   - url: https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-14-transform-coding-in-real-life-image-audio-etc
+     name: Quiz
 
 [//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossy/rd.html)
 
